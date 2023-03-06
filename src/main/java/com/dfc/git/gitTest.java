@@ -15,5 +15,6 @@ public class gitTest {
         System.out.println("你好，git2!");
         System.out.println("你好，git3!");
         System.out.println("我是 master");
+        System.out.println("我是 hot-fix");
     }
 }
